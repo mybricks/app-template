@@ -1,0 +1,12 @@
+{
+  "type": "pc-page",
+  "icon": "https://assets.mybricks.world/icon/pcpage.svg",
+  "title": "PC页面",
+  "setting": [
+    {
+      "id": "compileTask",
+      "type": "compileWorkflows",
+      "title": "发布环境"
+    }
+  ]
+}
